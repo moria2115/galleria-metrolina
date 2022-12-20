@@ -1,0 +1,26 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-image: url(./data/pictures/background.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #d5d1cc;
+    text-shadow: -1px 1px 13px rgba(233, 221, 214, 0.74);
+}
+
+.card {
+    border: none;
+    background-color: rgba(123, 125, 126, 0.8);
+}
+
+.card-body {
+    color: #d5d1cc;
+    line-height: 1.5;
+}
+
+
+
+.modal-content {
+    background-color: rgba(123, 125, 126, 0.8);
+}
